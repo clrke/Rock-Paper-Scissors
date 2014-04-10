@@ -1,0 +1,5 @@
+C:\Users\Ark\documents\visual studio 2010\Projects\RockPaperScissors\RockPaperScissors\bin\Release\RockPaperScissors.exe
+C:\Users\Ark\documents\visual studio 2010\Projects\RockPaperScissors\RockPaperScissors\bin\Release\RockPaperScissors.pdb
+C:\Users\Ark\documents\visual studio 2010\Projects\RockPaperScissors\RockPaperScissors\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Ark\documents\visual studio 2010\Projects\RockPaperScissors\RockPaperScissors\obj\x86\Release\RockPaperScissors.exe
+C:\Users\Ark\documents\visual studio 2010\Projects\RockPaperScissors\RockPaperScissors\obj\x86\Release\RockPaperScissors.pdb
